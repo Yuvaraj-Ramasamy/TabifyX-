@@ -44,10 +44,12 @@ Impact
 
 Screenshots / Demo
 Main view:
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/3041ee6c-94e8-402a-b91e-39a5a58859ee" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/9a72466e-b77b-4ad9-97fd-85098715768a" />
+
 
 Success Pop-Up:
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/54264532-0ce8-452a-a947-a9d6b0f1eafb" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/9818365a-c288-4073-8afa-37da5b4d0306" />
+
  
 
 Help Menu:
